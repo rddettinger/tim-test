@@ -1,4 +1,6 @@
 This is my readme file. 
 
-THere's nothing in this file that is all that special.
+There's nothing in this file that is all that important.
+
+It is just a file we are working on.
 
